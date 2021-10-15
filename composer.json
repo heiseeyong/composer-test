@@ -1,0 +1,19 @@
+{
+    "name": "heiseeyong/composer-test",
+    "description": "ceshi",
+    "type": "library",
+    "license": "apache2.0",
+    "autoload": {
+        "psr-4": {
+            "Heiseeyong\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Long Bai",
+            "email": "bailong@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
