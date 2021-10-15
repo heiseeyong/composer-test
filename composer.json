@@ -2,6 +2,7 @@
     "name": "heiseeyong/composer-test",
     "description": "ceshi",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Heiseeyong\\ComposerTest\\": "src/"
